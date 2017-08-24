@@ -1,0 +1,15 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {},
+  "name": "hubot-mantis",
+  "version": "1.0.0",
+  "description": "Hubot framework used to develop a Mantis chatbot to be integrated within Flowdock",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jerry Housh",
+  "license": "ISC"
+}
